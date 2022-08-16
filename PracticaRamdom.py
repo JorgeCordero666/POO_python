@@ -1,9 +1,9 @@
 from turtle import *
 import turtle
 ws = turtle.Screen
-# ws.bgcolor("black")
+bgcolor("blue")
 sk = turtle.Turtle()
-sk.color("blue")
+sk.color("red")
 
 
 def squarefunc(size):
